@@ -12,6 +12,10 @@ case $operation in
 	"-") let result=$(( $num1 - $num2 ));;
 	"*") let result=$(( $num1 * $num2 ));;
 	"/") let result=$(( $num1 / $num2 ));;
+	? ) echo "Invalid menu option";;
+	* ) echo "Invalid menu option";;
+	[[:lower:]] ) echo "Invalid menu option";;
+	[[:upper:]] ) echo "Invalid menu option";;
 esac
 
 echo "The 2 numbers entered are $num1 and $num2"
