@@ -8,20 +8,20 @@ Daniel Jun          ID: N00960785
     c.
         1. The action fails because the file is already open in System
     d - q. ✓
-    r. The steps remove the account
+    r. The steps remove the profile
 
 6.
     a. ✓
-    b. The calculator shortcut is included on the desktop because
+    b. The calculator shortcut is included on the desktop because it is saved on the computer's HDD.
     c. ✓
 
-When is a user profile first created?
+When is a user profile first created? From original Windows account user: Dan
 
-Why are user profiles important?
+Why are user profiles important? Separate files for different users. Can keep things private from other people.
 
-What was the purpose of adding shortcuts in the Public and the Default Profile?
+What was the purpose of adding shortcuts in the Public and the Default Profile? Can access application is a quicker and easier way.
 
 Look up the following terms and describe your findings:
 Windows Local Profile -
 Windows Roaming Profile -
-What types of profile are we using here?  Roaming or Local?
+What types of profile are we using here?  Roaming or Local? Local
