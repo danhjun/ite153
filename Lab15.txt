@@ -1,0 +1,27 @@
+ITE 153-M1          Lab #15
+Daniel Jun          ID: N00960785
+
+1 - 4. ✓
+5.
+    a. ✓
+    b. ✓
+    c.
+        1. The action fails because the file is already open in System
+    d - q. ✓
+    r. The steps remove the account
+
+6.
+    a. ✓
+    b. The calculator shortcut is included on the desktop because
+    c. ✓
+
+When is a user profile first created?
+
+Why are user profiles important?
+
+What was the purpose of adding shortcuts in the Public and the Default Profile?
+
+Look up the following terms and describe your findings:
+Windows Local Profile -
+Windows Roaming Profile -
+What types of profile are we using here?  Roaming or Local?
